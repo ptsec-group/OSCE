@@ -6,6 +6,6 @@ This repository contains tips and tools for dealing with OSCE certification.
 
 The First Step Towards OSCE
 
-* [Phase 1 -Get the Security String](https://github.com/ptsec/Malware-Analysis/blob/master/chart-01.png)
+* [Phase 1 -Get the Security String](https://github.com/ptsec-group/OSCE/blob/main/Get-The-Security-String.txt)
 * [Phase 2 - Get the Registration Code and the 128 Bytes Registration Key (CTP Secret Key)](https://github.com/ptsec/Malware-Analysis/#basic-static-analysis)
 
